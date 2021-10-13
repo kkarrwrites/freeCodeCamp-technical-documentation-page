@@ -1,0 +1,22 @@
+/* Main Styles */
+
+html {
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+body, footer, h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a, a:visited {
+    text-decoration: none;
+}
